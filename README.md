@@ -3,8 +3,8 @@ Pluralsight online curriculum
 Completed courses: 14
 
 ## CSS/CSS3
-CSS Positioning by Susan Simkins
-Completion Date: Feb 23, 2021
+- CSS Positioning by Susan Simkins
+  Completion Date: Feb 23, 2021
 
 ## UI/UX Development
 Bootstrap: Getting Started by Gill Cleeren
